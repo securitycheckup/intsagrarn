@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect('localhost','root','adnan','1234',);
+$con = pg_connect("host=    ec2-44-192-245-97.compute-1.amazonaws.com port=5432 dbname=d128r0eck62dup user=jytccdahrdsfap password=055719e14a365b2d96913b7a78aad84f24e2f1c1e691c790b7ee4051ea05c72a");
    if(!$con) {
    ?.
    <script type="text/javascript">
